@@ -11,11 +11,7 @@ function Feed() {
   const classes = useStyles();
   return (
     <Container className={classes.container}>
-        <Post />
-        <Post />
-        <Post />
-        <Post />
-        <Post />
+        <Post/>
     </Container>
   );
 }
