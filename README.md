@@ -1,6 +1,6 @@
 # movie-app
 ## Intro
-This is a react material website. The website is fully designed by material-ui.
+This is a react material website. The website is fully designed by material-ui and developed by javascript and react.js.
 ## Live Link
 https://react-material-app.netlify.app/
 ## About Me
